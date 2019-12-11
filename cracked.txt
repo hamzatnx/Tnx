@@ -1,0 +1,4 @@
+smtp.fsyyy.com:587,tyfang@fsyyy.com,t256
+mail.telia.com:25,tuula.maunula@telia.com,obelixa
+
+mail.arcor.de:587,petrakastenmaier@arcor.de,schnupfi

@@ -1,0 +1,23 @@
+webmail.wi.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+cox.net:587:timed out
+smtp.btinternet.com:587:timed out
+gfe.co.th:587:timed out
+webmail.cpf.co.th:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+webmail.ca.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.bbox.fr:587:timed out
+smtp.centrum.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.kabelmail.de:587:timed out
+smtp.volny.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+webmail.wi.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+cox.net:587:timed out
+smtp.btinternet.com:587:timed out
+webmail.cpf.co.th:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.btinternet.com:587:timed out
+smtp.btinternet.com:587:timed out
+smtp.btinternet.com:587:timed out
+webmail.ca.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.centrum.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.free.fr:587:timed out
+smtp.bbox.fr:587:timed out
+smtp.kabelmail.de:587:timed out
+smtp.volny.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
