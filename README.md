@@ -1,2 +1,0 @@
-# Tnx
-All script
